@@ -1,1 +1,1 @@
-# projet
+# Simple site maintenance web page.
